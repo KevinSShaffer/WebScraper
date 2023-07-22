@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper",
+  "version": "0.0.0",
+  "description": "WebScraper",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "follow-redirects": "^1.15.2"
+  }
+}
